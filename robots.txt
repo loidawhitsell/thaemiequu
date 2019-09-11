@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aibielaich.lyj96.com/sitemap.xml
